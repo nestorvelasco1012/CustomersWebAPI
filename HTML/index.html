@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Customer Management</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div id="wave-container">
+        <div id="wave"></div>
+    </div>
+    <div id="container">
+        <h1>Customer Management</h1>
+        <table id="customerTable">
+            <thead>
+                <tr>
+                    <th>Customer ID</th>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>City</th>
+                    <th>State</th>
+                    <th>Zip</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Customer records will be dynamically added here -->
+            </tbody>
+        </table>
+        <br>
+        <button id="btnAddCustomer">Add Customer</button>
+    </div>
+
+    <div id="modal" style="display: none;">
+        <div id="modalContent">
+            <h2 id="modalTitle"></h2>
+            <form id="customerForm">
+                <input type="hidden" id="customerId" />
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" required pattern="[A-Za-z\s]+" />
+                </div>
+                <div class="form-group">
+                    <label for="address">Address:</label>
+                    <input type="text" id="address" required />
+                </div>
+                <div class="form-group">
+                    <label for="city">City:</label>
+                    <input type="text" id="city" required pattern="[A-Za-z\s]+" />
+                </div>
+                <div class="form-group">
+                    <label for="state">State:</label>
+                    <input type="text" id="state" required pattern="[A-Za-z]{2}" />
+                </div>
+                <div class="form-group">
+                    <label for="zip">Zip:</label>
+                    <input type="text" id="zip" required pattern="[0-9]{5}" />
+                </div>
+                <div class="form-actions">
+                    <button id="btnSave">Save</button>
+                    <button id="btnCancel">Cancel</button>
+                </div>
+            </form>
+            <div id="loadingSpinner" style="display: none;">
+                <div class="spinner"></div>
+                <div>Adding customer...</div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div id="socialMediaIcons">
+            <a href="https://www.facebook.com/nestor.velasco.313/" target="_blank">
+                <img src="resources/facebook-icon.png" alt="Facebook">
+            </a>
+            <a href="https://www.linkedin.com/in/nestor-velasco-b53a77253/" target="_blank">
+                <img src="resources/linkedin-icon.png" alt="LinkedIn">
+            </a>
+            <a href="https://www.instagram.com/nestorvelasco/" target="_blank">
+                <img src="resources/instagram-icon.png" alt="Instagram">
+            </a>
+        </div>
+        <p>&copy; Nestor Velasco</p>
+    </footer>
+</body>
+
+</html>
