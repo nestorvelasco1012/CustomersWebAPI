@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "CustomersWebAPI";
+}
+
+@{
+    string[] applicationUrls = { "https://localhost:7120", "http://localhost:5022" };
+    string supportEmail = "nestorvelasco1012@gmail.com";
+}
+
+<div class="text-center">
+    <h1 class="display-4">CustomersWebAPI</h1>
+    <ul style="list-style-type: none; padding: 0;">
+        @foreach (var url in applicationUrls)
+        {
+            <li style="margin-bottom: 5px;"><a href="@url">@url</a></li>
+        }
+    </ul>
+
+    <p style="margin-top: 20px; font-weight: bold; color: green;">Server is running!</p>
+    <p style="margin-top: 10px;">For support, please contact <a href="mailto:@supportEmail">@supportEmail</a>.</p>
+</div>

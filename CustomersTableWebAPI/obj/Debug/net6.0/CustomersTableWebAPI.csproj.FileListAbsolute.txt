@@ -1,0 +1,104 @@
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.staticwebassets.runtime.json
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.exe
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.deps.json
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.runtimeconfig.json
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.pdb
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.csproj.AssemblyReference.cache
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.AssemblyInfoInputs.cache
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.AssemblyInfo.cs
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.RazorAssemblyInfo.cache
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.RazorAssemblyInfo.cs
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.CustomersTableWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomersTableWebAPI.props
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomersTableWebAPI.props
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomersTableWebAPI.props
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\scopedcss\bundle\CustomersTableWebAPI.styles.css
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\scopedcss\projectbundle\CustomersTableWebAPI.bundle.scp.css
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.csproj.CopyComplete
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\refint\CustomersTableWebAPI.dll
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.pdb
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.genruntimeconfig.cache
+C:\Users\Nestor\source\repos\CustomersTableWebAPI\obj\Debug\net6.0\ref\CustomersTableWebAPI.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.staticwebassets.runtime.json
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.exe
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.deps.json
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.runtimeconfig.json
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\CustomersTableWebAPI.pdb
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.csproj.AssemblyReference.cache
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.AssemblyInfoInputs.cache
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.AssemblyInfo.cs
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.RazorAssemblyInfo.cache
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.RazorAssemblyInfo.cs
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.CustomersTableWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomersTableWebAPI.props
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomersTableWebAPI.props
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomersTableWebAPI.props
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\scopedcss\bundle\CustomersTableWebAPI.styles.css
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\scopedcss\projectbundle\CustomersTableWebAPI.bundle.scp.css
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.csproj.CopyComplete
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\refint\CustomersTableWebAPI.dll
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.pdb
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\CustomersTableWebAPI.genruntimeconfig.cache
+C:\Users\Nestor\Desktop\InvoiceCloud Assessment\CustomersTableWebAPI\obj\Debug\net6.0\ref\CustomersTableWebAPI.dll

@@ -1,0 +1,312 @@
+/* Add your CSS styles here */
+
+html {
+    height: 100%;
+    /* Ensure full height of the document */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    background-image: url("resources/Wave.svg");
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    min-height: 100%;
+    padding-bottom: 100px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    animation: waveAnimation 20s linear infinite;
+}
+
+
+@keyframes waveAnimation {
+    from {
+        background-position-x: 0;
+    }
+
+    to {
+        background-position-x: 100%;
+    }
+}
+
+#container {
+
+    max-width: 1000px;
+    margin: 50px auto 50px;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #b0b9d1;
+}
+
+th {
+    background-color: #fdfdfd77;
+}
+
+#customerTable td:last-child {
+    white-space: nowrap;
+}
+
+#customerForm .form-actions button {
+    padding: 5px 10px;
+    margin-right: 5px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#customerForm .form-actions button:hover {
+    background-color: #0056b3;
+}
+
+
+.btnEdit {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btnEdit:hover {
+    background-color: #0056b3;
+}
+
+.btnDelete {
+    padding: 5px 10px;
+    background-color: #d62525;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btnDelete:hover {
+    background-color: #971b1b;
+}
+
+
+#btnAddCustomer,
+#btnRefresh {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#btnAddCustomer:hover,
+#btnRefresh:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    margin-top: auto;
+    /* Push the footer to the bottom */
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+
+#modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#modalContent {
+    width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#modalTitle {
+    text-align: center;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+form input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+form button {
+    padding: 5px 10px;
+    margin-right: 5px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #0056b3;
+}
+
+.form-actions {
+    text-align: right;
+}
+
+footer {
+    background-color: hsl(210, 75%, 19%);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+footer p {
+    margin: 10px 0;
+}
+
+#socialMediaIcons a {
+    margin-right: 10px;
+    text-decoration: none;
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+}
+
+#socialMediaIcons a:hover {
+    opacity: 1;
+}
+
+#socialMediaIcons img {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s ease;
+}
+
+#socialMediaIcons img:hover {
+    transform: scale(1.2);
+}
+
+
+#loadingSpinner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #007bff;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.alert {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+}
+
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+/* Additional Styles */
+
+html {
+    height: 100%;
+    /* Ensure full height of the document */
+}
+
+body {
+    overflow-y: auto;
+    /* Add scrollbar if content overflows */
+}
