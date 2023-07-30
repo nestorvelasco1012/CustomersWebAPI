@@ -1,8 +1,4 @@
-# Invoice Cloud – Software Engineer Challenge
-
-## Task 1 – JQuery, C#, ASP.NET WebAPI
-Please create an HTML website that will support basic CRUD operations to manage the Customers table. Add support for viewing, adding, editing, and deleting Customers. 
-The website should interface, using JQuery / AJAX calls, with a C# ASP.NET WebAPI service to support pulling and updating information from the Customers table.
+## JQuery, C#, ASP.NET WebAPI
 
 ### Instructions:
 1. Open the `CustomersTableWebAPI` folder.
@@ -11,9 +7,7 @@ The website should interface, using JQuery / AJAX calls, with a C# ASP.NET WebAP
 4. To access the HTML website:
    - Open the `HTML` folder and open the `index.html` file in a web browser.
 
-## Task 2 – React, C#, ASP.NET WebAPI
-Please create a React application that will support basic CRUD operations to manage the Customers table. Add support for viewing, adding, editing, and deleting Customers. 
-The React app should interface with a C# ASP.NET WebAPI service to support pulling and updating information from the Customers table.
+## React, C#, ASP.NET WebAPI
 
 ### Instructions:
 1. Open the `CustomersTableWebAPI` folder.
